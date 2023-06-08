@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "https://ly.atom.im"
+baseurl = ""
 languageCode = "en-us"
 title = "Call for papers"
 
@@ -36,12 +36,12 @@ copyright = "Theme designed by [dblp](https://dblp.uni-trier.de/), customized by
 
 # Timeline section
 [params.timeline]
-enable = true
+enable = false
 
 # Highlight section
 [params.highlight]
 enable = true
-title = "Featured Call"
+title = "Featured CFPs"
 name = "Name"
 rank="Rank"
 when = "When"
@@ -53,7 +53,7 @@ countdown = "Countdown"
 # Upcoming section
 [params.upcoming]
 enable = true
-title = "Upcoming Calls"
+title = "Upcoming CFPs"
 name = "Name"
 rank="Rank"
 when = "When"
@@ -65,7 +65,7 @@ countdown = "Countdown"
 # current section
 [params.current]
 enable = true
-title = "Inactive Calls"
+title = "Inactive CFPs"
 name = "Name"
 rank="Rank"
 when = "When"
@@ -77,7 +77,7 @@ countdown = "Event starts in"
 # past section
 [params.past]
 enable = true
-title = "Past Calls"
+title = "Past CFPs"
 name = "Name"
 rank="Rank"
 when = "When"

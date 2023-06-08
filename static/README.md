@@ -1,1 +1,1 @@
-https://ly.atom.im
+Call for papers
