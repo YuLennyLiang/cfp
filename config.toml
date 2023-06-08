@@ -16,7 +16,7 @@ hrefTargetBlank = true
 [params]
 description = "Selected call for papers from top computer architecture & system conferences."
 keywords = "conference, computer science and technology, non-volatile memory, NVM, file system, operating system"
-author = "Hu Wan"
+author = "Yu Lenny Liang"
 
 # Introduction section
 [params.intro]
@@ -28,7 +28,7 @@ notes = "**Note**: Deadlines are shown in timezone from conference website. Time
 # Links
 [params.info]
 enable = true
-info = "**Link**: [Chinese Computing Federation (CCF) Ranking List](https://ccf.atom.im). Report bug at [here](https://github.com/atom-im/cfp/issues)."
+info = "**Link**: [Chinese Computing Federation (CCF) Ranking List](https://ccf.atom.im). Report bug at [here](https://github.com/YuLennyLiang/cfp/issues)."
 
 # Footer section
 [params.footer]
