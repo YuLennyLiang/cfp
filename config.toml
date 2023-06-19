@@ -93,7 +93,7 @@ countdown = "Event Status"
 
 [[params.cfp.list]]
 enable = 1
-name = "EuroSys fall"
+name = "EuroSys-fall"
 rank = "A"
 site = "https://2024.eurosys.org/cfp.html#pagetop"
 open = "2024-04-23"
@@ -133,7 +133,7 @@ open = "2024-02-27"
 close = "2024-02-29 23:59:59"
 absddl = "N/A"
 submddl = "2023-09-21 23:59:59 -07:00"
-notidue = "2023-12-8"
+notidue = "2023-12-08"
 
 [[params.cfp.list]]
 enable = 1
