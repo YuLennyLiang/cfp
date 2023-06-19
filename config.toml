@@ -114,7 +114,7 @@ submddl = "2024-02-08 23:59:00 -08:00"
 notidue = "2024-05-08"
 
 [[params.cfp.list]]
-enable = 2
+enable = 1
 name = "OSDI"
 rank = "A"
 site = "https://www.usenix.org/conference/osdi24/call-for-papers"
