@@ -50,19 +50,6 @@
 						</tr>
 					</thead>
 					<tbody>
-						<tr class="item" style="background-color:purple;color:white">
-							<th scope="row">
-								<a class="hl" href="https://asplos-conference.org/" target="_blank">ASPLOS 2022</a>
-							</th>
-							<td>A</td>
-							<td> Aug 6, 2021 </td>
-							<td>Aug 13, 2021</td>
-							<td>Nov 15, 2021</td>
-							<td>Feb 28-Mar 4, 2022</td>
-							<td>
-								<div id="countdown"></div>
-							</td>
-						</tr>
 					</tbody>
 				</table>
 			</div>
@@ -89,6 +76,62 @@
 						</tr>
 					</thead>
 					<tbody>
+						<tr class="item" style="background-color:Wheat">
+							<th scope="row">
+								<a href="https://www.asplos-conference.org/asplos2024/cfp/" target="_blank">ASPLOS summer 2024</a>
+							</th>
+							<td>A</td>
+							<td>Aug 3, 2023</td>
+							<td>Aug 10, 2023</td>
+							<td>Nov 15, 2023</td>
+							<td>Mar 25-29, 2024</td>
+							<td>
+								<div data-countdown="2023-08-11 14:59:59"></div>
+							</td>
+						</tr>
+
+						<tr class="item" style="background-color:Wheat">
+							<th scope="row">
+								<a href="https://www.usenix.org/conference/fast24/call-for-papers" target="_blank">FAST 2024</a>
+							</th>
+							<td>A</td>
+							<td>N/A</td>
+							<td>Sep 21, 2023</td>
+							<td>Dec 8, 2023</td>
+							<td>Feb 27-29, 2024</td>
+							<td>
+								<div data-countdown="2023-09-22 14:59:59"></div>
+							</td>
+						</tr>
+
+						<tr class="item" style="background-color:Wheat">
+							<th scope="row">
+								<a href="https://2024.eurosys.org/cfp.html#pagetop" target="_blank">EuroSys-fall 2024</a>
+							</th>
+							<td>A</td>
+							<td>N/A</td>
+							<td>Oct 19, 2023</td>
+							<td>Feb 7, 2024</td>
+							<td>Apr 23-26, 2024</td>
+							<td>
+								<div data-countdown="2023-10-20 14:59:59"></div>
+							</td>
+						</tr>
+
+						<tr class="item" style="background-color:Wheat">
+							<th scope="row">
+								<a href="https://www.asplos-conference.org/asplos2024/cfp/" target="_blank">ASPLOS fall 2024</a>
+							</th>
+							<td>A</td>
+							<td>Nov 23, 2023</td>
+							<td>Nov 30, 2023</td>
+							<td>Mar 6, 2024</td>
+							<td>Mar 25-29, 2024</td>
+							<td>
+								<div data-countdown="2023-12-01 14:59:59"></div>
+							</td>
+						</tr>
+
 					</tbody>
 				</table>
 			</div>
@@ -204,6 +247,20 @@
 							<td>Oct 1, 2021</td>
 							<td>Feb 1, 2022</td>
 							<td>May 30-Jun 3, 2022</td>
+							<td>
+								Ended
+							</td>
+						</tr>
+
+						<tr class="item" style="background-color:white">
+							<th scope="row">
+								<a href="https://asplos-conference.org/" target="_blank">ASPLOS 2022</a>
+							</th>
+							<td>A</td>
+							<td>Aug 6, 2021</td>
+							<td>Aug 13, 2021</td>
+							<td>Nov 15, 2021</td>
+							<td>Feb 28-Mar 4, 2022</td>
 							<td>
 								Ended
 							</td>
@@ -516,7 +573,7 @@
 	<div class="clear-both"></div>
 	<div id="footer">
 		<div class="info">
-			<p>Theme designed by <a href="https://dblp.uni-trier.de/">dblp</a>, customized by <a href="https://atom.im">atom.im</a>. Last updated on Jun 8, 2023.</p>
+			<p>Theme designed by <a href="https://dblp.uni-trier.de/">dblp</a>, customized by <a href="https://atom.im">atom.im</a>. Last updated on Jun 19, 2023.</p>
 		</div>
 	</div>
 
@@ -540,7 +597,7 @@
 	<script src="assets/js/moment.min.js"></script>
 	<script src="assets/js/moment-timezone-with-data-2012-2022.min.js"></script>
 	<script>
-		var deadline = moment.tz("2021-08-14 05:59:59", "Asia/Hong_Kong");
+		var deadline = moment.tz("", "Asia/Hong_Kong");
 		$('#countdown').countdown(deadline.toDate(), function(event) {
 			$(this).html(event.strftime('%D days %H:%M:%S'));
 			});
