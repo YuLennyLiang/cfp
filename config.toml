@@ -93,6 +93,50 @@ countdown = "Event Status"
 
 [[params.cfp.list]]
 enable = 1
+name = "Security-fall"
+rank = "A"
+site = "https://www.usenix.org/conference/usenixsecurity24/call-for-papers"
+open = "2024-08-14"
+close = "2024-08-16 23:59:59"
+absddl = "N/A"
+submddl = "2023-10-17 23:59:00 -08:00"
+notidue = "2024-02-01"
+
+[[params.cfp.list]]
+enable = 1
+name = "Security-winter"
+rank = "A"
+site = "https://www.usenix.org/conference/usenixsecurity24/call-for-papers"
+open = "2024-08-14"
+close = "2024-08-16 23:59:59"
+absddl = "N/A"
+submddl = "2024-02-08 23:59:00 -08:00"
+notidue = "2024-05-08"
+
+[[params.cfp.list]]
+enable = 1
+name = "OSDI"
+rank = "A"
+site = "https://www.usenix.org/conference/osdi24/call-for-papers"
+open = "2024-07-10"
+close = "2024-07-12 23:59:59"
+absddl = "2023-11-30 23:59:00 -08:00"
+submddl = "2023-12-07 23:59:00 -08:00"
+notidue = "2024-03-21"
+
+[[params.cfp.list]]
+enable = 1
+name = "ATC"
+rank = "A"
+site = "https://www.usenix.org/conference/atc24"
+open = "2024-07-10"
+close = "2024-07-12 23:59:59"
+absddl = "2024-01-06 23:59:00 -08:00"
+submddl = "2024-01-13 23:59:00 -08:00"
+notidue = "2024-04-29"
+
+[[params.cfp.list]]
+enable = 1
 name = "EuroSys-fall"
 rank = "A"
 site = "https://2024.eurosys.org/cfp.html#pagetop"
