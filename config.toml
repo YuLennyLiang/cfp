@@ -148,6 +148,17 @@ notidue = "2024-02-07"
 
 [[params.cfp.list]]
 enable = 1
+name = "ISCA"
+rank = "A"
+site = "https://iscaconf.org/isca2024/"
+open = "2024-06-29"
+close = "2024-07-03 23:59:59"
+absddl = "2023-11-14"
+submddl = "2023-11-21 23:59:59 -07:00"
+notidue = "2024-03-19"
+
+[[params.cfp.list]]
+enable = 1
 name = "ASPLOS summer"
 rank = "A"
 site = "https://www.asplos-conference.org/asplos2024/cfp/"
